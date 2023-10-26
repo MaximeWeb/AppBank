@@ -1,9 +1,9 @@
 
-  owner: 'Maxime Neyret',
+  owner: 'mn',
   pin: 1111,
 
 
-  owner: 'Jessica Davis',
+  owner: 'jd',
   pin: 2222,
 
  
